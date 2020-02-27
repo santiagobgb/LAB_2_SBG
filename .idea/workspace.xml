@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f77992d8-469f-43e4-a851-2daca986d9ae" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LAB_2_SBG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAB_2_SBG.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/funciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/funciones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualizaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualizaciones.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,20 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="funciones.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="funciones.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/funciones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state relative-caret-position="1615">
+              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <marker date="1582815518874" expanded="true" signature="1501:1507" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="principal.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="principal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/principal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="12" selection-start-line="11" selection-end-line="16" />
+            <state relative-caret-position="289">
+              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -121,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.principal">
+  <component name="RunManager" selected="Python.funciones">
     <configuration name="funciones" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LAB_2_SBG" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,8 +162,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.principal" />
         <item itemvalue="Python.funciones" />
+        <item itemvalue="Python.principal" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +176,7 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32912722" />
-      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32912722" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32912722" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -223,6 +221,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+          <folding>
+            <marker date="1582815518874" expanded="true" signature="1501:1507" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -254,17 +255,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/funciones.py">
+    <entry file="file://$PROJECT_DIR$/principal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        <state relative-caret-position="289">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/principal.py">
+    <entry file="file://$PROJECT_DIR$/funciones.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="12" selection-start-line="11" selection-end-line="16" />
+        <state relative-caret-position="1615">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <marker date="1582815518874" expanded="true" signature="1501:1507" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
