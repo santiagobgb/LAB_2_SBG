@@ -1,18 +1,17 @@
 # -- ------------------------------------------------------------------------------------ -- #
-
 # -- proyecto: Microestructura y Sistemas de Trading - Laboratorio 2 - Behavioral Finance
-
-# -- archivo: principal.py - datos generales para uso en el proyecto
-
-# -- mantiene: Francisco ME
-
-# -- repositorio: https://github.com/IFFranciscoME/LAB_2_JFME
-
+# -- archivo: principal.py - flujo principal del proyecto
+# -- mantiene: mauanaya
+# -- repositorio: https://github.com/mauanaya/LAB_2_VMAA
 # -- ------------------------------------------------------------------------------------ -- #
 
 import funciones as fn
+#%%
+datos = fn.f_leer_archivo(param_archivo='archivo_tradeview_1.xlsx')
+fn.f_pip_size(param_ins='audusd')
+datos = fn.f_columnas_tiempo(param_data=datos)
+datos = fn.f_columnas_pips(param_data=datos)
+datos = fn.f_columnas_capital_acum(param_data=datos)
+df_1 = fn.f_estadisticas_ba(param_data=datos)
 
-datos = fn.f_leer_archivo(param_archivo='Hoja1.xlsx')
 
-#f_pip_size(param_ins='usdmxn')
-#datos = fn.f_columnas_datos(param_data=datos)
