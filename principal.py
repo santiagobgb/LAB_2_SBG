@@ -1,8 +1,8 @@
 # -- ------------------------------------------------------------------------------------ -- #
 # -- proyecto: Microestructura y Sistemas de Trading - Laboratorio 2 - Behavioral Finance
 # -- archivo: principal.py - flujo principal del proyecto
-# -- mantiene: mauanaya
-# -- repositorio: https://github.com/mauanaya/LAB_2_VMAA
+# -- mantiene: santiagobgb
+# -- repositorio: https://github.com/santiagobgb/LAB_2_bgb
 # -- ------------------------------------------------------------------------------------ -- #
 
 import funciones as fn
