@@ -2,7 +2,7 @@
 # -- proyecto: Microestructura y Sistemas de Trading - Laboratorio 2 - Behavioral Finance
 # -- archivo: funciones.py - procesamiento de datos
 # -- mantiene:santiago
-# -- repositorio: https://github.com/santiagobgb/LAB_2_VMAA
+# -- repositorio: https://github.com/santiagobgb/LAB_2_SBG
 # -- ------------------------------------------------------------------------------------ -- #
 
 import pandas as pd
