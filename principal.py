@@ -3,6 +3,7 @@
 # -- archivo: principal.py - flujo principal del proyecto
 # -- mantiene: santiagobgb
 # -- repositorio: https://github.com/santiagobgb/LAB_2_bgb
+
 # -- ------------------------------------------------------------------------------------ -- #
 
 import funciones as fn
