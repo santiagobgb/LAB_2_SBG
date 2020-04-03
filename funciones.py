@@ -3,7 +3,7 @@
 # -- archivo: funciones.py - procesamiento de datos
 # -- mantiene:santiago
 # -- repositorio: https://github.com/santiagobgb/LAB_2_SBG
-# -- ------------------------------------------------------------------------------------- -- #
+# -- ------------------------------------------------------------------------------------ -- #
 
 import pandas as pd
 import numpy as np
